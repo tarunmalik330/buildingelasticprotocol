@@ -8,15 +8,21 @@ const Start = () => {
     <>
       <div className="bg_supply py_supply">
         <Container className="custum_container">
-          <h2 className="text-white text-center ff-jakarta fs_2xxl lh_120 text-capitalize fw-bold mb-0">
+          <h2
+            className="text-white text-center ff-jakarta fs_2xxl lh_120 text-capitalize fw-bold mb-0"
+            data-aos="fade-right"
+          >
             170k Total Starting Supply
           </h2>
-          <p className="text-white text-center fw-normal lh_183">
+          <p
+            className="text-white text-center fw-normal lh_183"
+            data-aos="fade-right"
+          >
             Initial BONDing Offering (IBO)* Phases
           </p>
           <div className="d-flex align-items-center justify-content-center pt_71">
             <div className="overflow-lg-none overflow-auto">
-              <div className="pb-5 pt-3 w_md_900 w_550">
+              <div className="pb-5 pt-3 w_md_900 w_550" data-aos="fade-left">
                 <Row className="border_bottom align-items-center justify-content-center">
                   <Col className="col-4">
                     <p className="ff-raleway fw-normal fs_md text-white">
@@ -89,7 +95,10 @@ const Start = () => {
               </div>
             </div>
           </div>
-          <div className="text-center d-flex flex-column justify-content-center align-items-center pt-lg-5">
+          <div
+            className="text-center d-flex flex-column justify-content-center align-items-center pt-lg-5"
+            data-aos="fade-right"
+          >
             <p className="ff-raleway fw-normal fs_md text-white lh-150 text-decoration-underline">
               (47,777 or around <span className="fs_36 ff_jakarta">28% </span>
               <span className=""> of total starting supply is up for IBO)</span>

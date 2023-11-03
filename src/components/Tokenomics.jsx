@@ -59,7 +59,10 @@ const Tokenomics = () => {
               </p>
             </Col>
             <Col lg={5} className="pt_90 pt-lg-0">
-              <div className="d-flex align-items-center gap-3">
+              <div
+                className="d-flex align-items-center gap-3"
+                data-aos="zoom-in-left"
+              >
                 <div className="pt-2 nav_icon cur-pointer">
                   <Decentralised />
                 </div>
@@ -72,7 +75,10 @@ const Tokenomics = () => {
                   </p>
                 </div>
               </div>
-              <div className="d-flex align-items-center gap-3 pt-4">
+              <div
+                className="d-flex align-items-center gap-3 pt-4"
+                data-aos="zoom-in-left"
+              >
                 <div className="pt-2 cur-pointer nav_icon">
                   <ExtraValue />
                 </div>
@@ -85,7 +91,10 @@ const Tokenomics = () => {
                   </p>
                 </div>
               </div>
-              <div className="d-flex align-items-center gap-3 pt-4">
+              <div
+                className="d-flex align-items-center gap-3 pt-4"
+                data-aos="zoom-in-left"
+              >
                 <div className="pt-2 cur-pointer nav_icon">
                   <SmartIndex />
                 </div>
@@ -99,7 +108,10 @@ const Tokenomics = () => {
                   </p>
                 </div>
               </div>
-              <div className="d-flex align-items-center gap-3 pt-4">
+              <div
+                className="d-flex align-items-center gap-3 pt-4"
+                data-aos="zoom-in-left"
+              >
                 <div className="cur-pointer nav_icon">
                   <SocialCoordination />
                 </div>
@@ -114,7 +126,10 @@ const Tokenomics = () => {
                   </p>
                 </div>
               </div>
-              <div className="d-flex align-items-center gap-3 pt-4">
+              <div
+                className="d-flex align-items-center gap-3 pt-4"
+                data-aos="zoom-in-left"
+              >
                 <div className="cur-pointer nav_icon">
                   <Expansive />
                 </div>

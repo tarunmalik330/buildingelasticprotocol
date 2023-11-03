@@ -12,7 +12,7 @@ const Roadmap = () => {
             Roadmap
           </h2>
           <div className="timeline">
-            <div className="container1 left">
+            <div className="container1 left" data-aos="fade-left">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   2022
@@ -44,7 +44,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 right">
+            <div className="container1 right" data-aos="fade-right">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   2023 Beginning
@@ -73,7 +73,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 left">
+            <div className="container1 left" data-aos="fade-left">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q3 2023
@@ -101,7 +101,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 right">
+            <div className="container1 right" data-aos="fade-right">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q4 2023
@@ -135,7 +135,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 left">
+            <div className="container1 left" data-aos="fade-left">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q1 2024
@@ -170,7 +170,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 right">
+            <div className="container1 right" data-aos="fade-right">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q2 2024
@@ -194,7 +194,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 left">
+            <div className="container1 left" data-aos="fade-left">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q3 2024
@@ -217,7 +217,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 right">
+            <div className="container1 right" data-aos="fade-right">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q4 2024
@@ -235,7 +235,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 left">
+            <div className="container1 left" data-aos="fade-left">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q1 2025
@@ -259,7 +259,7 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 right">
+            <div className="container1 right" data-aos="fade-right">
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q2 2025

@@ -22,10 +22,16 @@ const CoreStrategies = () => {
     <div id="About" className="Bg_blue mb_1 py_coresec mt_10">
       <Container className="custum_container">
         <div className="d-flex flex-column align-items-center justify-content-center">
-          <h2 className="text-white ff_NeueMachinaUltrabold lh_120 text-capitalize fs_6xl text-center mb-0 pb-4">
+          <h2
+            className="text-white ff_NeueMachinaUltrabold lh_120 text-capitalize fs_6xl text-center mb-0 pb-4"
+            data-aos="fade-right"
+          >
             Core Strategies
           </h2>
-          <p className="text-white opacity_08 lh_160 ff-raleway fw-normal text-center mw_819 mb-0 pb-5">
+          <p
+            className="text-white opacity_08 lh_160 ff-raleway fw-normal text-center mw_819 mb-0 pb-5"
+            data-aos="fade-left"
+          >
             Our initial strategies use powerful burgeoning trends like Real
             Yield, Rebase, and others to generate cutting-edged yield
             innovations. These yield strategies stretch beyond the drought in
@@ -40,7 +46,7 @@ const CoreStrategies = () => {
                 lg={6}
                 className="d-flex align-items-center justify-content-center position-relative"
               >
-                <div className="A_card z-1">
+                <div className="A_card z-1" data-aos="flip-left">
                   <button className="Innovation_btn text-white lh_160 ff-raleway fw-normal fs_4sm text-capitalize">
                     Innovation
                   </button>
@@ -82,46 +88,76 @@ const CoreStrategies = () => {
               >
                 <div className="overflow-y-auto">
                   <div className="h_340">
-                    <p className="lh_120 fw-normal ff_NeueMachinaRegular text-capitalize text-white fs_8lg mb-0 pb-3">
+                    <p
+                      className="lh_120 fw-normal ff_NeueMachinaRegular text-capitalize text-white fs_8lg mb-0 pb-3"
+                      data-aos="fade-left"
+                    >
                       Elastic Vault
                     </p>
-                    <div className="d-flex align-items-center gap-1 pb-3">
+                    <div
+                      className="d-flex align-items-center gap-1 pb-3"
+                      data-aos="fade-left"
+                    >
                       <p className="lh_160 ff-raleway fw-medium text-white fs_2md mb-0">
                         Deposit Token
                       </p>
                       <I />
                     </div>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal text-white mb-0 pb-3">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal text-white mb-0 pb-3"
+                      data-aos="fade-left"
+                    >
                       {" "}
                       $AMPL
                     </p>
-                    <p className="fs_2md lh_160 text-white fw-normal ff-raleway pb-2">
+                    <p
+                      className="fs_2md lh_160 text-white fw-normal ff-raleway pb-2"
+                      data-aos="fade-left"
+                    >
                       Flagship Hedging Strategy
                     </p>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0"
+                      data-aos="fade-left"
+                    >
                       This one-of-a-kind strategy combines the benefits of
                       Rebase’s force multiplier effect and Real Yield’s
                       sustainability.
                     </p>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0"
+                      data-aos="fade-left"
+                    >
                       Helps users to protect against downtrends and amplify
                       yield rewards during market up trends.
                     </p>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0"
+                      data-aos="fade-left"
+                    >
                       This one-of-a-kind strategy combines the benefits of
                       Rebase’s force multiplier effect and Real Yield’s
                       sustainability.
                     </p>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0"
+                      data-aos="fade-left"
+                    >
                       Helps users to protect against downtrends and amplify
                       yield rewards during market up trends.
                     </p>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0"
+                      data-aos="fade-left"
+                    >
                       This one-of-a-kind strategy combines the benefits of
                       Rebase’s force multiplier effect and Real Yield’s
                       sustainability.
                     </p>
-                    <p className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0">
+                    <p
+                      className="fs_6sm ff-raleway lh_160 fw-normal pb-2 text-white mw_442 mb-0"
+                      data-aos="fade-left"
+                    >
                       Helps users to protect against downtrends and amplify
                       yield rewards during market up trends.
                     </p>

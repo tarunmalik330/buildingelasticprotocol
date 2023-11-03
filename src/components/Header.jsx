@@ -137,16 +137,23 @@ const Header = () => {
             lg={6}
             className="d-flex align-items-lg-start align-items-center justify-content-center flex-column"
           >
-            <h2 className="mb-0 ff_NeueMachinaRegular fs_5xxxl fw-medium text-white mw-463 text-uppercase text-center text-lg-start lh_120 pb-4">
+            <h2
+              className="mb-0 ff_NeueMachinaRegular fs_5xxxl fw-medium text-white mw-463 text-uppercase text-center text-lg-start lh_120 pb-4"
+              data-aos="fade-right"
+            >
               Building elastic Protocol
             </h2>
-            <p className="mb-0 ff-raleway fs-6sm fw-normal text-white text_center mw-521 lh-150 text-capitalize pb-3">
+            <p
+              className="mb-0 ff-raleway fs-6sm fw-normal text-white text_center mw-521 lh-150 text-capitalize pb-3"
+              data-aos="fade-right"
+            >
               An ecosystem of unique yield strategies that help you earn yield,
               amplify, and stretch it across all market conditions
             </p>
             <a
               href=""
               className="mb-0 ff-raleway fs-8sm fw-bold text-white text-decoration-underline"
+              data-aos="fade-right"
             >
               Audited by Omniscia
             </a>
@@ -154,6 +161,7 @@ const Header = () => {
           <Col
             lg={6}
             className="d-flex align-items-lg-start justify-content-lg-end justify-content-center"
+            data-aos="fade-left"
           >
             <img
               src={Roboimg2}

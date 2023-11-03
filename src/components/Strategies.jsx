@@ -39,10 +39,18 @@ const Strategies = () => {
       <div className="bg_Strategies bg-white py_startegies">
         <Container>
           <div className="d-flex flex-column justify-content-center align-items-center">
-            <h2 className="text_blue fs_6xl ff_NeueMachinaUltrabold lh_120 text-capitalize text-center mb-0 pb-3">
+            <h2
+              className="text_blue fs_6xl ff_NeueMachinaUltrabold lh_120 text-capitalize text-center mb-0 pb-3"
+              data-aos="zoom-in-up"
+            >
+              {" "}
               Future Use Cases (Strategies)
             </h2>
-            <p className="text-center fs_6sm  text-black opacity_08 lh_160 ff-raleway mw_882 mb-0 pb_82">
+            <p
+              className="text-center fs_6sm  text-black opacity_08 lh_160 ff-raleway mw_882 mb-0 pb_82"
+              data-aos="zoom-in-up"
+            >
+              {" "}
               Elastic Protocol will continue to pioneer an expanding ecosystem
               of yield strategies that will cater to DeFi users across a range
               of blockchains, communities, and interests. Each will help in
@@ -52,7 +60,7 @@ const Strategies = () => {
             </p>
           </div>
           <Row className="justify-content-center">
-            <Col lg={4} md={6} className="col-12">
+            <Col lg={4} md={6} className="col-12" data-aos="fade-right">
               <div className="hover_effect position-relative overflow-hidden">
                 <img
                   src={cardImg1}
@@ -138,7 +146,12 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 pt-4 pt-md-0">
+            <Col
+              lg={4}
+              md={6}
+              className="col-12 pt-4 pt-md-0"
+              data-aos="fade-right"
+            >
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg1}
@@ -224,7 +237,12 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 pt-4 pt-lg-0">
+            <Col
+              lg={4}
+              md={6}
+              className="col-12 pt-4 pt-lg-0"
+              data-aos="fade-right"
+            >
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg3}
@@ -310,7 +328,7 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 py-4">
+            <Col lg={4} md={6} className="col-12 py-4" data-aos="fade-left">
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg4}
@@ -396,7 +414,7 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 py-lg-4">
+            <Col lg={4} md={6} className="col-12 py-lg-4" data-aos="fade-left">
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg5}
@@ -482,7 +500,12 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 py-lg-4 pt-4">
+            <Col
+              lg={4}
+              md={6}
+              className="col-12 py-lg-4 pt-4"
+              data-aos="fade-left"
+            >
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg6}
@@ -568,7 +591,12 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 pt-4 pt-lg-0">
+            <Col
+              lg={4}
+              md={6}
+              className="col-12 pt-4 pt-lg-0"
+              data-aos="fade-right"
+            >
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg7}
@@ -654,7 +682,12 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 pt-4 pt-lg-0">
+            <Col
+              lg={4}
+              md={6}
+              className="col-12 pt-4 pt-lg-0"
+              data-aos="fade-right"
+            >
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg8}
@@ -740,7 +773,12 @@ const Strategies = () => {
                 </div>
               </div>
             </Col>
-            <Col lg={4} md={6} className="col-12 pt-4 pt-lg-0">
+            <Col
+              lg={4}
+              md={6}
+              className="col-12 pt-4 pt-lg-0"
+              data-aos="fade-right"
+            >
               <div className="position-relative hover_effect overflow-hidden">
                 <img
                   src={cardImg9}
