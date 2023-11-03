@@ -90,7 +90,7 @@ const Start = () => {
             </div>
           </div>
           <div className="text-center d-flex flex-column justify-content-center align-items-center pt-lg-5">
-            <p className="ff-raleway fw-normal fs_md text-white lh-150">
+            <p className="ff-raleway fw-normal fs_md text-white lh-150 text-decoration-underline">
               (47,777 or around <span className="fs_36 ff_jakarta">28% </span>
               <span className=""> of total starting supply is up for IBO)</span>
             </p>

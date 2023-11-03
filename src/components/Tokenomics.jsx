@@ -13,8 +13,8 @@ const Tokenomics = () => {
     <div>
       <div className="tokenomics_bg_img py_tokenonics mb_45 mb_57">
         <Container className="custum_container">
-          <Row className="align-items-center pb-5 pb-lg-0">
-            <Col lg={6} className="pb_100 pb-lg-0">
+          <Row className="align-items-center pb-5 pb-lg-0 justify-content-lg-between justify-content-center">
+            <Col lg={5} className="pb_100 pb-lg-0">
               <h2 className="fs_46 fw-bold ff_NeueMachinaUltrabold text-black m-0">
                 EEFI Tokenomics
               </h2>
@@ -58,9 +58,9 @@ const Tokenomics = () => {
                 170,000
               </p>
             </Col>
-            <Col lg={6} className="pt_90 pt-lg-0">
+            <Col lg={5} className="pt_90 pt-lg-0">
               <div className="d-flex align-items-center gap-3">
-                <div className="pt-2">
+                <div className="pt-2 nav_icon cur-pointer">
                   <Decentralised />
                 </div>
                 <div>
@@ -73,7 +73,7 @@ const Tokenomics = () => {
                 </div>
               </div>
               <div className="d-flex align-items-center gap-3 pt-4">
-                <div className="pt-2">
+                <div className="pt-2 cur-pointer nav_icon">
                   <ExtraValue />
                 </div>
                 <div>
@@ -86,7 +86,7 @@ const Tokenomics = () => {
                 </div>
               </div>
               <div className="d-flex align-items-center gap-3 pt-4">
-                <div className="pt-2">
+                <div className="pt-2 cur-pointer nav_icon">
                   <SmartIndex />
                 </div>
                 <div>
@@ -100,7 +100,7 @@ const Tokenomics = () => {
                 </div>
               </div>
               <div className="d-flex align-items-center gap-3 pt-4">
-                <div className="">
+                <div className="cur-pointer nav_icon">
                   <SocialCoordination />
                 </div>
                 <div>
@@ -115,7 +115,7 @@ const Tokenomics = () => {
                 </div>
               </div>
               <div className="d-flex align-items-center gap-3 pt-4">
-                <div className="">
+                <div className="cur-pointer nav_icon">
                   <Expansive />
                 </div>
                 <div>

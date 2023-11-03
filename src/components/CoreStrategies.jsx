@@ -19,7 +19,7 @@ const CoreStrategies = () => {
     slidesToScroll: 1,
   };
   return (
-    <div id="About" className="Bg_blue mb_1 py_coresec">
+    <div id="About" className="Bg_blue mb_1 py_coresec mt_10">
       <Container className="custum_container">
         <div className="d-flex flex-column align-items-center justify-content-center">
           <h2 className="text-white ff_NeueMachinaUltrabold lh_120 text-capitalize fs_6xl text-center mb-0 pb-4">
@@ -78,7 +78,7 @@ const CoreStrategies = () => {
               </Col>
               <Col
                 lg={6}
-                className="d-flex align-items-center justify-content-center pt-5 pt-lg-0"
+                className="d-flex align-items-start align-items-lg-center justify-content-start pt-5 pt-lg-0"
               >
                 <div className="overflow-y-auto">
                   <div className="h_340">

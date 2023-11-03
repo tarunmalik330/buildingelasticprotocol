@@ -46,7 +46,7 @@ const Contact = () => {
             ></textarea>
           </form>
           <div className="d-flex align-items-center justify-content-center pt_64">
-            <button className="button glass_hover text-white ff-raleway fw-medium fs_md">
+            <button className="button_submit text-white ff-raleway fw-medium fs_md">
               SUBMIT'
             </button>
           </div>
