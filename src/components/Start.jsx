@@ -9,7 +9,7 @@ const Start = () => {
       <div className="bg_supply py_supply">
         <Container className="custum_container">
           <h2
-            className="text-white text-center ff-jakarta fs_2xxl lh_120 text-capitalize fw-bold mb-0"
+            className="text-white text-center ff-jakarta fs_2xxl lh_120 text-capitalize fw-bold mb-0 pb-4"
             data-aos="fade-right"
           >
             170k Total Starting Supply

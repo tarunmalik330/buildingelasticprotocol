@@ -20,7 +20,7 @@ const Amplify = () => {
       </div>
       <Container className="custum_container d-flex flex-column justify-content-center align-items-center flex-sm-grow-1">
         <p
-          className="text-white ff-raleway fw-normal fs_4sm mw_554 text-center pt_169 pt-sm-0 pt_202  pt_227"
+          className="text-white ff-raleway fw-normal fs_4sm mw_554 text-center pt_169 pt-sm-0 pt_202 pt_227"
           data-aos="zoom-in-up"
         >
           We take a different balanced approach to finding and creating yield

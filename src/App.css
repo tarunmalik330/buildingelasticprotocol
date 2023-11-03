@@ -1029,15 +1029,17 @@ textarea::placeholder {
   .mw_448 {
     max-width: 448px !important;
   }
-
-  .head-padding {
-    padding: 0;
-  }
 }
 
 @media (min-width:991.98px) {
   .d_lg_block {
     display: block;
+  }
+}
+
+@media (min-width:992.98px) {
+  .head-padding {
+    padding: 0;
   }
 }
 
