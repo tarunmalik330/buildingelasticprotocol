@@ -13,12 +13,12 @@ const Tokenomics = () => {
     <div>
       <div className="tokenomics_bg_img py_tokenonics mb_45 mb_57">
         <Container className="custum_container">
-          <Row className="align-items-center pb-5 pb-lg-0 justify-content-lg-between justify-content-center">
+          <Row className="pb-5 pb-lg-0 align-align-items-center justify-content-lg-between justify-content-center">
             <Col lg={5} className="pb_100 pb-lg-0">
               <h2 className="fs_46 fw-bold ff_NeueMachinaUltrabold text-black m-0">
                 EEFI Tokenomics
               </h2>
-              <p className="ff-raleway fs_6sm fw-normal text-black mw_448 lh_160 pb-4 pt-3 m-0">
+              <p className="ff-raleway fs_6sm fw-normal text-black mw_448 lh_160 pb-5 pt-3 m-0">
                 EEFI is the special rewards token of the protocol that is minted
                 and distributed in a decentralized fashion. It produces
                 amplified yield during uptrends and protects from downside

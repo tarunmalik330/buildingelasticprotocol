@@ -350,9 +350,6 @@ html {
   max-width: 485px !important;
 }
 
-.h_340 {
-  height: 340px;
-}
 
 ::-webkit-scrollbar {
   display: none !important;
@@ -633,6 +630,11 @@ html {
   background: #FFF;
   box-shadow: 0px 4px 44px 5px rgba(0, 0, 0, 0.08);
   cursor: pointer;
+  transition: 0.3s linear;
+}
+
+.card_team:hover {
+  box-shadow: 0 7px 15px 0 rgba(22, 67, 195, .21);
 }
 
 /* ----------------------------Ecosystem-partner------------------------------ */
@@ -1041,6 +1043,10 @@ textarea::placeholder {
   .head-padding {
     padding: 0;
   }
+
+  .h_340 {
+    height: 340px;
+  }
 }
 
 @media (min-width:1200px) {
@@ -1256,6 +1262,7 @@ textarea::placeholder {
     --fs-4md: 18px !important;
     --fs-2xxl: 45px !important;
     --fs-5xxxl: 72px !important;
+    /* --fs-5xxxl:47px; */
   }
 }
 

@@ -259,7 +259,10 @@ const Roadmap = () => {
                 <RoadmapLeftline />
               </div>
             </div>
-            <div className="container1 right" data-aos="fade-right">
+            <div
+              className="container1 right d-none d-lg-block"
+              data-aos="fade-right"
+            >
               <div className="content">
                 <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
                   Q2 2025
@@ -275,6 +278,26 @@ const Roadmap = () => {
               <div className="RoadmapLeftline">
                 <RoadmapLeftline />
               </div>
+            </div>
+          </div>
+          <div
+            className="container1 right d-lg-none d-block"
+            data-aos="fade-right"
+          >
+            <div className="content">
+              <h2 className="lh_120 fw-medium fs_md text-white ff-jakarta text-capitalize mb-0 pb-3">
+                Q2 2025
+              </h2>
+              <ul className="list-styletype-disc mb-0">
+                <li className="fs_6sm lh-150 ff-raleway fw-normal text-white mb-0 pb-2">
+                  Hand over Elastic Finance DAO to Community: Complete
+                  decentralization of Elastic Finance DAO, its treasury, its
+                  yield strategies and community governance
+                </li>
+              </ul>
+            </div>
+            <div className="RoadmapLeftline">
+              <RoadmapLeftline />
             </div>
           </div>
         </Container>

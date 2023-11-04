@@ -29,7 +29,7 @@ const Header = () => {
             alt="Pagelogo"
             className="mw-68 w-100 cur-pointer ps-lg-0 ps-3"
           />
-          <div className="d-flex align-items-center justify-content-between gap-btn z_index_3 pe-5">
+          <div className="d-flex align-items-center justify-content-between gap-btn z_index_3 pe-5 pe-lg-0">
             <div
               onClick={() => setshow(!show)}
               className={`${show ? "cross" : "cross1"} menu-icon`}
