@@ -962,7 +962,7 @@ textarea::placeholder {
 
 @media (min-width:992px) {
   .bg-header {
-    background-image: url('./assets/images/png/header-bg-img.png');
+    background-image: url('./assets/images/webp/header-bg-img.webp');
     background-repeat: no-repeat;
     background-size: 100% 165%;
     background-position: center;

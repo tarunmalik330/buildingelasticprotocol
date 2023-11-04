@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
-import cloudImg_files from "../assets/images/png/ABC.png";
+import cloudImg_files from "../assets/images/webp/ABC.webp";
 
 const Amplify = () => {
   return (

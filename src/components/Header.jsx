@@ -3,9 +3,9 @@ import { useState } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Roboimg from "../assets/images/png/Roboimg.png";
+import Roboimg from "../assets/images/webp/Roboimg.webp";
 import Pagelogo from "../assets/images/png/logo.png";
-import Roboimg2 from "../assets/images/png/Roboimg2.png";
+import Roboimg2 from "../assets/images/webp/Roboimg2.webp";
 import { MoreArrow } from "./IconImg";
 
 const Header = () => {
