@@ -4,7 +4,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Roboimg from "../assets/images/webp/Roboimg.webp";
-import Pagelogo from "../assets/images/png/logo.png";
+import Pagelogo from "../assets/images/webp/logo.webp";
 import Roboimg2 from "../assets/images/webp/Roboimg2.webp";
 import { MoreArrow } from "./IconImg";
 

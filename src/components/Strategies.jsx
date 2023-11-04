@@ -20,18 +20,18 @@ import SmallImg6 from "../assets/images/png/SmallImg6.png";
 import SmallImg7 from "../assets/images/png/SmallImg7.png";
 import SmallImg8 from "../assets/images/png/SmallImg8.png";
 import SmallImg9 from "../assets/images/png/SmallImg9.png";
-import CircleImg1 from "../assets/images/png/CircleImg1.png";
-import CircleImg3 from "../assets/images/png/CircleImg1.png";
-import CircleImg4 from "../assets/images/png/CircleImg4.png";
-import CircleImg5 from "../assets/images/png/CircleImg5.png";
-import CircleImg6 from "../assets/images/png/CircleImg6.png";
-import CircleImg7 from "../assets/images/png/CircleImg7.png";
-import CircleImg8 from "../assets/images/png/CircleImg8.png";
-import CircleImg9 from "../assets/images/png/CircleImg9.png";
-import Arbiturm from "../assets/images/png/Arbitrum.png";
-import GMX from "../assets/images/png/GMX.png";
-import Vela from "../assets/images/png/Vela.png";
-import JonesDao from "../assets/images/png/JonesDao.png";
+import CircleImg1 from "../assets/images/webp/CircleImg1.webp";
+import CircleImg3 from "../assets/images/webp/CircleImg1.webp";
+import CircleImg4 from "../assets/images/webp/CircleImg4.webp";
+import CircleImg5 from "../assets/images/webp/CircleImg5.webp";
+import CircleImg6 from "../assets/images/webp/CircleImg6.webp";
+import CircleImg7 from "../assets/images/webp/CircleImg7.webp";
+import CircleImg8 from "../assets/images/webp/CircleImg8.webp";
+import CircleImg9 from "../assets/images/webp/CircleImg9.webp";
+import Arbiturm from "../assets/images/webp/Arbitrum.webp";
+import GMX from "../assets/images/webp/GMX.webp";
+import Vela from "../assets/images/webp/Vela.webp";
+import JonesDao from "../assets/images/webp/JonesDao.webp";
 
 const Strategies = () => {
   return (

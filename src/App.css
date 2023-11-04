@@ -143,7 +143,7 @@ html {
 
 /* --------------------------------Header----------------------------------- */
 .bg-header {
-  background-image: url('./assets/images/png/bg-header2.png');
+  background-image: url('./assets/images/webp/bg-header2.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -289,7 +289,7 @@ html {
 
 /* ----------------------Amplify----------------------- */
 .bg_amplify {
-  background-image: linear-gradient(0deg, #000 43%, transparent 10%), url("./assets/images/png/BlackBg.png");
+  background-image: linear-gradient(0deg, #000 43%, transparent 10%), url("./assets/images/webp/BlackBg.webp");
   background-size: 100% 100%;
   background-position: top;
   background-repeat: no-repeat;
@@ -307,7 +307,7 @@ html {
 
 /* -----------------------Core Strategies------------------ */
 .Bg_blue {
-  background-image: url("./assets/images/png/BgBlue.png");
+  background-image: url("./assets/images/webp//BgBlue.webp");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -404,7 +404,7 @@ html {
 
 /* -----------------------------------Tokenomics------------------------------- */
 .tokenomics_bg_img {
-  background-image: url("./assets/images/png/bg-twocolour2.png");
+  background-image: url("./assets/images/webp/bg-twocolour2.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -450,7 +450,7 @@ html {
 
 /* ------------------------------Supply-section----------------------------- */
 .bg_supply {
-  background-image: url('./assets/images/png/BgSupply.png');
+  background-image: url('./assets/images/webp/BgSupply.webp');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: repeat;
@@ -613,7 +613,7 @@ html {
 
 /* ------------------------Our-Team---------------------- */
 .bg_team {
-  background-image: linear-gradient(360deg, #fff 24%, transparent 24%), url('./assets/images/png/BgTeam.png');
+  background-image: linear-gradient(360deg, #fff 24%, transparent 24%), url('./assets/images/webp/BgTeam.webp');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -679,7 +679,7 @@ html {
 
 /* -----------------------------------------Roadmap------------------------------------ */
 .Bg_Roadmap {
-  background-image: url("./assets/images/png/BgRoadmap.png");
+  background-image: url("./assets/images/webp/BgRoadmap.webp");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -789,7 +789,7 @@ html {
 
 /* --------------------------------contactUs-section------------------------------- */
 .contact_bg {
-  background-image: url("./assets/images/png/cantactBg.png");
+  background-image: url("./assets/images/webp/cantactBg.webp");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -945,7 +945,7 @@ textarea::placeholder {
   }
 
   .bg_amplify {
-    background-image: linear-gradient(180deg, #000 12%, transparent 10%), url("./assets/images/png/BlackBg.png");
+    background-image: linear-gradient(180deg, #000 12%, transparent 10%), url("./assets/images/webp/BlackBg.webp");
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -970,7 +970,7 @@ textarea::placeholder {
   }
 
   .tokenomics_bg_img {
-    background-image: url("./assets/images/png/bg-twocolour.png");
+    background-image: url("./assets/images/webp/bg-twocolour.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1084,7 +1084,7 @@ textarea::placeholder {
   }
 
   .bg_team {
-    background-image: linear-gradient(360deg, #fff 70%, transparent 70%), url('./assets/images/png/BgTeam.png');
+    background-image: linear-gradient(360deg, #fff 70%, transparent 70%), url('./assets/images/webp/BgTeam.webp');
     background-size: cover;
   }
 
@@ -1204,7 +1204,7 @@ textarea::placeholder {
   }
 
   .bg_amplify {
-    background-image: linear-gradient(0deg, #000 43%, transparent 10%), url("./assets/images/png/BlackBg.png");
+    background-image: linear-gradient(0deg, #000 43%, transparent 10%), url("./assets/images/webp/BlackBg.webp");
     background-size: 100% 100%;
     background-position: top;
     background-repeat: no-repeat;
@@ -1215,7 +1215,7 @@ textarea::placeholder {
 
 @media (min-width:500px) and (max-width:576.99px) {
   .bg_amplify {
-    background-image: linear-gradient(0deg, #000 37%, transparent 10%), url("./assets/images/png/BlackBg.png");
+    background-image: linear-gradient(0deg, #000 37%, transparent 10%), url("./assets/images/webp/BlackBg.webp");
     background-size: 100% 100%;
     background-position: top;
     background-repeat: no-repeat;

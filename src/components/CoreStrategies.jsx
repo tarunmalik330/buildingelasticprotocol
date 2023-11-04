@@ -7,7 +7,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { A_circle } from "./IconImg";
 import { I } from "./IconImg";
-import TextImg from "../assets/images/png/$AMPL.png";
+import TextImg from "../assets/images/webp/AMPL.webp";
 
 const CoreStrategies = () => {
   const settings = {
