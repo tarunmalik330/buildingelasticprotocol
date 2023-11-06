@@ -14,7 +14,7 @@ const OurTeam = () => {
   return (
     <>
       <div id="Team" className="bg_team">
-        <Container className="custum_container">
+        <Container>
           <h2
             className="text-white fs_6xl ff_NeueMachinaUltrabold text-center lh_120 text-capitalize py_team"
             data-aos="zoom-in-down"

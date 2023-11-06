@@ -2,18 +2,18 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Olympus from "../assets/images/png/Olympus.png";
-import BondProtocol from "../assets/images/png/BondProtocol.png";
-import Foundry from "../assets/images/png/Foundry.png";
-import Balancer from "../assets/images/png/Balancer.png";
-import Gearbox from "../assets/images/png/Gearbox.png";
-import Uniswap from "../assets/images/png/Uniswap.png";
+import Olympus from "../assets/images/webp/Olympus.webp";
+import BondProtocol from "../assets/images/webp/BondProtocol.webp";
+import Foundry from "../assets/images/webp/Foundry.webp";
+import Balancer from "../assets/images/webp/Balancer.webp";
+import Gearbox from "../assets/images/webp/Gearbox.webp";
+import Uniswap from "../assets/images/webp/Uniswap.webp";
 
 const EcosystemPartners = () => {
   return (
     <>
       <div id="Partners" className="py_partner">
-        <Container className="custum_container">
+        <Container>
           <h2
             className="ff_NeueMachinaUltrabold fs_6xl text_blue text-center pb_63"
             data-aos="zoom-out-left"

@@ -4,8 +4,8 @@ import Container from "react-bootstrap/Container";
 const Contact = () => {
   return (
     <>
-      <div className="contact_bg py_contact d-none d-lg-block">
-        <Container className="custum_container">
+      <div className="contact_bg py_contact">
+        <Container>
           <h2
             className="ff_NeueMachinaUltrabold fs_6xl text-white text-center lh_120 mb-0"
             data-aos="fade-up"
@@ -47,7 +47,7 @@ const Contact = () => {
               name="#"
               id="#"
               rows="4"
-              placeholder="Massage"
+              placeholder="Message"
               className="resize_none pt-5 w-100 bg-transparent outline_none border_bottom ff-raleway fs_6sm fw-normal text-white lh-150 "
             ></textarea>
           </form>
@@ -56,7 +56,7 @@ const Contact = () => {
             data-aos="fade-up"
           >
             <button className="button_submit text-white ff-raleway fw-medium fs_md">
-              SUBMIT'
+              SUBMIT
             </button>
           </div>
         </Container>

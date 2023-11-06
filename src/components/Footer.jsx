@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
-import Footerlogo from "../assets/images/png/fooetrlogo.png";
+import Footerlogo from "../assets/images/webp/fooetrlogo.webp";
 import { Youtube } from "./IconImg";
 import { Githube } from "./IconImg";
 import { Twitter } from "./IconImg";
@@ -15,7 +15,7 @@ const Footer = () => {
   return (
     <>
       <div className="bg-white py_footer">
-        <Container className="custum_container">
+        <Container>
           <div className="text-center">
             <img src={Footerlogo} alt="Footerlogo" className="w-100 mw_107" />
             <p className="text_blue fs_6sm fw-normal ff-raleway py-3 mb-0">

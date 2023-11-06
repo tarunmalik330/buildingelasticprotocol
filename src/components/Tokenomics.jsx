@@ -12,9 +12,9 @@ const Tokenomics = () => {
   return (
     <div>
       <div className="tokenomics_bg_img py_tokenonics mb_45 mb_57">
-        <Container className="custum_container">
-          <Row className="pb-5 pb-lg-0 align-align-items-center justify-content-lg-between justify-content-center">
-            <Col lg={5} className="pb_100 pb-lg-0">
+        <Container>
+          <Row className="pb-5 pb-lg-0 align-items-center justify-content-center">
+            <Col lg={6} className="pb_100 pb-lg-0">
               <h2 className="fs_46 fw-bold ff_NeueMachinaUltrabold text-black m-0">
                 EEFI Tokenomics
               </h2>
@@ -58,7 +58,7 @@ const Tokenomics = () => {
                 170,000
               </p>
             </Col>
-            <Col lg={5} className="pt_90 pt-lg-0">
+            <Col lg={6} className="pt_90 pt-lg-0">
               <div
                 className="d-flex align-items-center gap-3"
                 data-aos="zoom-in-left"

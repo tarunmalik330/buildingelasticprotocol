@@ -20,7 +20,7 @@ const CoreStrategies = () => {
   };
   return (
     <div id="About" className="Bg_blue mb_1 py_coresec mt_10">
-      <Container className="custum_container">
+      <Container>
         <div className="d-flex flex-column align-items-center justify-content-center">
           <h2
             className="text-white ff_NeueMachinaUltrabold lh_120 text-capitalize fs_6xl text-center mb-0 pb-4"

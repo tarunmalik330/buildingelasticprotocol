@@ -22,7 +22,7 @@ const Header = () => {
         <div className="blue_circle"></div>
         <div className="blue_circle"></div>
       </div>
-      <Container className="custum_container">
+      <Container>
         <div className="d-flex align-items-center justify-content-between py-lg-1 py-2 position_fixed z_index_6 tg-blue start-0 end-0">
           <img
             src={Pagelogo}

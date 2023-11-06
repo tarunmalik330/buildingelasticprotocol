@@ -7,7 +7,7 @@ const Start = () => {
   return (
     <>
       <div className="bg_supply py_supply">
-        <Container className="custum_container">
+        <Container>
           <h2
             className="text-white text-center ff-jakarta fs_2xxl lh_120 text-capitalize fw-bold mb-0 pb-4"
             data-aos="fade-right"
