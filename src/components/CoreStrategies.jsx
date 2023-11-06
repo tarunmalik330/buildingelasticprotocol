@@ -44,7 +44,7 @@ const CoreStrategies = () => {
             <Row>
               <Col
                 lg={6}
-                className="d-flex align-items-center justify-content-center position-relative"
+                className="d-flex align-items-center position-relative justify-content-start"
               >
                 <div className="A_card z-1" data-aos="flip-left">
                   <button className="Innovation_btn text-white lh_160 ff-raleway fw-normal fs_4sm text-capitalize">
@@ -170,7 +170,7 @@ const CoreStrategies = () => {
             <Row>
               <Col
                 lg={6}
-                className="d-flex align-items-center justify-content-center position-relative"
+                className="d-flex align-items-center justify-content-start position-relative"
               >
                 <div className="A_card z-1">
                   <button className="Innovation_btn text-white lh_160 ff-raleway fw-normal fs_4sm text-capitalize">
@@ -210,7 +210,7 @@ const CoreStrategies = () => {
               </Col>
               <Col
                 lg={6}
-                className="d-flex align-items-center justify-content-center pt-5 pt-lg-0"
+                className="d-flex align-items-center justify-content-start pt-5 pt-lg-0"
               >
                 <div className="overflow-y-auto">
                   <div className="h_340">
@@ -306,7 +306,7 @@ const CoreStrategies = () => {
               </Col>
               <Col
                 lg={6}
-                className="d-flex align-items-center justify-content-center pt-5 pt-lg-0"
+                className="d-flex align-items-center justify-content-start pt-5 pt-lg-0"
               >
                 <div className="overflow-y-auto">
                   <div className="h_340">
@@ -402,7 +402,7 @@ const CoreStrategies = () => {
               </Col>
               <Col
                 lg={6}
-                className="d-flex align-items-center justify-content-center pt-5 pt-lg-0"
+                className="d-flex align-items-center justify-content-start pt-5 pt-lg-0"
               >
                 <div className="overflow-y-auto">
                   <div className="h_340">
